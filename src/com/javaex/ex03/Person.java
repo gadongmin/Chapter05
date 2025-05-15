@@ -7,8 +7,7 @@ public class Person {
 	private String com;
 
 	// 생성자
-	public Person() {
-	}
+	public Person() {}
 
 	public Person(String name, String hp, String com) {
 		this.name = name;
